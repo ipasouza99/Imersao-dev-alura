@@ -1,1 +1,1 @@
-Participei da nona edição da Imersão dev da Alura, aprendemos e aprofundamos sobre HTML, CSS e principalmente JavaScript.
+Participei da nona edição da Imersão dev da Alura, durante 5 aulas aprendemos e aprofundamos sobre HTML, CSS e principalmente JavaScript e também foi feito 5 desafios usando o que foi aprendido e proposto por eles.  
