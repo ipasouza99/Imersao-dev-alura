@@ -1,0 +1,56 @@
+body {
+    background: url("https://s2.glbimg.com/yg-hfdnZv9EHIcWpAlIKIg3CVQE=/top/e.glbimg.com/og/ed/f/original/2019/03/22/super.png") no-repeat center
+      center fixed;
+    background-size: cover;
+    font-family: "Arial", sans-serif;
+    margin: 20px;
+  }
+  
+  .logo {
+    text-align: end;
+  }
+  
+  .logo img {
+    width: 12%;
+  }
+  
+  /* Caixa principal do jogo */
+  .conteudo-jogo {
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 5px #ff1b1b;
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+        
+  }
+  
+  .conteudo-jogo:hover {
+    background: rgba(0, 0, 0);
+    box-shadow: 0 0 5px #19caca;
+  }
+  
+  /* Títulos e textos */
+  h2,
+  p {
+    color: white;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background: #1f1bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background: #19caca;
+  }
+  
+  #resultadoFinal{
+    color:white;
+  }
